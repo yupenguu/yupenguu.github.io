@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Working Papers"
+permalink: /workingpapers/
 author_profile: true
 ---
 
@@ -17,7 +17,7 @@ Recommended citation: Stefanescu, Irina, Yupeng Wang, Kangzhen Xie, and Jun Yang
 
 [To Buy or to Lease: The Advantages and Costs of Leasing versus Buying Scientific Instruments for Academic Core Facilities](https://yupengwang.github.io/files/lease_2020.pdf), with Douglas Richardson
 ------
-Published in *EMBO Reports*, 2020
+Published in *EMBO Reports*, 2018
 
 The ever-increasing speed of technological development has made leasing, in its various forms, an attractivestrategy for procuring a wide range of products. Most research institutions still purchase high-tech scientific equipment. Here, we examine the advantages of leasing scientific research instruments and provide an example of a successful implementation of a lease-based procurement strategy.
 
