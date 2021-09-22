@@ -11,7 +11,7 @@ title                    : "Yupeng Wang"
 title_separator          : "-"
 name                     : &name "Yupeng Wang"
 #description              : &description "personal description"
-url                      : https://yupenguu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yupenguu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yupenguu.github.io"
 teaser                   : 
