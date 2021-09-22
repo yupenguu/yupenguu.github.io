@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[Pay Me Now (and Later): Pension Benefit Manipulation before Plan Freezes and Executive Retirement](https://yupengwang.github.io/files/pension_2018.pdf), with Irina Stefanescu, Kangzhen Xie, and Jun Yang
+[Pay Me Now (and Later): Pension Benefit Manipulation before Plan Freezes and Executive Retirement](https://yupenguu.github.io/files/pension_2018.pdf), with Irina Stefanescu, Kangzhen Xie, and Jun Yang
 ------
 Published in *Journal of Financial Economics*, 2018
 

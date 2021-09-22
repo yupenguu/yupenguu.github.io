@@ -12,7 +12,7 @@ Welcome! I am a Ph.D. student in the finance group at MIT Sloan School of Manage
 
 My research interests center around entrepreneurial finance, household finance, and big data.
 
-[Curriculum Vitae](https://yupengwang.github.io/files/YupengWang.pdf)
+[Curriculum Vitae](https://yupenguu.github.io/files/YupengWang.pdf)
 
 
 Contact Information

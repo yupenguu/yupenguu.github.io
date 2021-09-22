@@ -5,11 +5,11 @@ permalink: /workingpapers/
 author_profile: true
 ---
 
-[Public Opinions and Startup Performance](https://yupengwang.github.io/files/jmp_2021.pdf)
+[Public Opinions and Startup Performance](https://yupenguu.github.io/files/jmp_2021.pdf)
 ------
 Coming soon
 
-[Inside the Black Box: Selection and Pricing of Fintech Mortgage Lenders (2019)](https://yupengwang.github.io/files/typ_2019.pdf)
+[Inside the Black Box: Selection and Pricing of Fintech Mortgage Lenders (2019)](https://yupenguu.github.io/files/typ_2019.pdf)
 ------
 Fintech mortgage lenders who collect wide forms of borrower data entirely online and rely on
 big data to make credit decisions through the use of machine learning algorithms have become an
