@@ -14,6 +14,8 @@ Teaching Assistant, MIT Sloan
 Recitation Instructor, MIT Sloan
 ------
 
+15.450 Analytics of Finance (MS), Spring 2019, Evaluation 6.5/7.0
+
 15.457 Advanced Analytics of Finance (MS), Spring 2019, Evaluation 6.5/7.0
 
 15.472 Advanced Asset Pricing (PhD), Fall 2018, Evaluation 6.3/7.0

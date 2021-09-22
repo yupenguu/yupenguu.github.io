@@ -5,20 +5,20 @@ permalink: /workingpapers/
 author_profile: true
 ---
 
-[Pay Me Now (and Later): Pension Benefit Manipulation before Plan Freezes and Executive Retirement](https://yupengwang.github.io/files/pension_2018.pdf), with Irina Stefanescu, Kangzhen Xie, and Jun Yang
+[Public Opinions and Startup Performance](https://yupengwang.github.io/files/jmp_2021.pdf)
 ------
-Published in *Journal of Financial Economics*, 2018
+Coming soon
 
-Large US firms modify top executives&apos; compensation before pension-related events. Top executives receive one-time increases in pensionable earnings through higher annual bonuses one year before a plan freeze and one year before retirement. Firms also boost pension payouts by lowering plan discount rates when top executives are eligible to retire with lump-sum benefit distributions. Increases in executive pensions do not appear to be an attempt to improve managerial effort or retention and are more likely to occur at firms with poor corporate governance. These findings suggest that in some circumstances managers are able to extract rents through their pension plans.
-
-Recommended citation: Stefanescu, Irina, Yupeng Wang, Kangzhen Xie, and Jun Yang. "Pay me now (and later): Pension benefit manipulation before plan freezes and executive retirement." Journal of Financial Economics 127, no. 1 (2018): 152-173.
-
-
-
-[To Buy or to Lease: The Advantages and Costs of Leasing versus Buying Scientific Instruments for Academic Core Facilities](https://yupengwang.github.io/files/lease_2020.pdf), with Douglas Richardson
+[Inside the Black Box: Selection and Pricing of Fintech Mortgage Lenders (2019)](https://yupengwang.github.io/files/typ_2019.pdf)
 ------
-Published in *EMBO Reports*, 2018
-
-The ever-increasing speed of technological development has made leasing, in its various forms, an attractivestrategy for procuring a wide range of products. Most research institutions still purchase high-tech scientific equipment. Here, we examine the advantages of leasing scientific research instruments and provide an example of a successful implementation of a lease-based procurement strategy.
-
-Recommended citation: Wang, Yupeng, and Douglas S. Richardson. "To buy or to lease: The advantages and costs of leasing versus buying scientific instruments for academic core facilities." EMBO reports 21, no. 5 (2020): e49971.
+Fintech mortgage lenders who collect wide forms of borrower data entirely online and rely on
+big data to make credit decisions through the use of machine learning algorithms have become an
+increasingly important source of mortgage credit in the US. Compared to traditional lenders, Fintech
+lenders are more likely to originate loans with high loan-to-value ratio (LTV) and particularly high
+debt-to-income ratio (DTI), possibly working through greater loan size instead of lower income.
+Conditional on predicted default rate using only observables, ex-post default rate is not significantly
+differed whether the loan is originated by a Fintech or a traditional lender. Fintech lenders also
+set interest rates that are more sensitive to LTV but less sensitive to DTI, and consequently, their
+interest rates have higher forecastability in prepayment but lower forecastability in delinquency
+and default. The findings suggest that new technology might be able to identify credit risks at the
+margin but may also be used to facilitate lenders in extracting rents.
