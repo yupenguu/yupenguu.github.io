@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : #"Yupeng Wang"
+  name             : "Yupeng Wang"
   avatar           : "profile.jpg"
-  bio              : 
+  bio              : Ph.D Student at MIT
   location         : "Cambridge, MA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"yupenguu"
+  github           : "yupenguu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yupeng-wang-63a05539/"
+  linkedin         : "yupeng-wang-63a05539/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
