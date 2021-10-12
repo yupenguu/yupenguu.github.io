@@ -50,7 +50,7 @@ staticman:
 #  path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : LFiGQvyd2NYcToanV2jzMt8m8lMOXn7ffkismRDWbCU
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -83,7 +83,7 @@ author:
   name             : #"Yupeng Wang"
   avatar           : "profile.jpg"
   bio              : 
-  location         : #"Cambridge, MA"
+  location         : "Cambridge, MA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=-DhrOFcAAAAJ&hl=en"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/yupeng-wang-63a05539/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
