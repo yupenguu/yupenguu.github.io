@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+layout: archive
 ---
 
 I am a Ph.D student in the finance group at MIT Sloan School of Management. I earned a B.A. in Information Management and Information Systems, and a M.A. in Finance from Tsinghua University.
