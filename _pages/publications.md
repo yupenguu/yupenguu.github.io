@@ -15,7 +15,7 @@ Recommended citation: Stefanescu, Irina, Yupeng Wang, Kangzhen Xie, and Jun Yang
 
 
 
-[To Buy or to Lease: The Advantages and Costs of Leasing versus Buying Scientific Instruments for Academic Core Facilities](https://yupengwang.github.io/files/lease_2020.pdf), with Douglas Richardson
+[To Buy or to Lease: The Advantages and Costs of Leasing versus Buying Scientific Instruments for Academic Core Facilities](https://yupenguu.github.io/files/lease_2020.pdf), with Douglas Richardson
 ------
 Published in *EMBO Reports*, 2020
 
