@@ -8,7 +8,7 @@ author_profile: true
 Teaching Assistant, MIT Sloan
 ------
 
-15.471 Corporate Finance (PhD), Spring 2019, Spring 2020, Spring 2021, Evaluation 7.0/7.0
+15.471 Corporate Finance (PhD), Spring 2019, 2020, and 2021, Evaluation 7.0/7.0
 
 
 Recitation Instructor, MIT Sloan

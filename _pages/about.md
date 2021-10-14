@@ -9,7 +9,7 @@ redirect_from:
 layout: archive
 ---
 
-I am a Ph.D student in the finance group at MIT Sloan School of Management. I earned a B.A. in Information Management and Information Systems, and a M.A. in Finance from Tsinghua University.
+I am a PhD student in the finance group at the MIT Sloan School of Management. I obtained my bachelor's degree in Information Systems and my master's degree in Finance from Tsinghua University.
 
 My research interests center around entrepreneurial finance, household finance, and big data.
 
