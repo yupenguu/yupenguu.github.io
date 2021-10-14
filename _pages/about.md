@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Ph.D. student in the finance group at MIT Sloan School of Management. I earned a B.A. in Information Management and Information Systems, and a M.A. in Finance from Tsinghua University.
+I am a Ph.D. student in the finance group at MIT Sloan School of Management. I earned a B.A. in Information Management and Information Systems, and a M.A. in Finance from Tsinghua University.
 
 My research interests center around entrepreneurial finance, household finance, and big data.
 
