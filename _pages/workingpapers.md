@@ -8,7 +8,7 @@ author_profile: true
 Strategic Manipulation of Online Opinions: Implications for Startups and Investors (2021), with Fangzhou Lu
 ------
 Startups are increasingly relying on online platforms to capture the attention of investors and attract users. 
-Using data on venture capital deals and data from an online community of entreprenuers, we show that investors tend to 
+Using data on venture capital deals and data from an online community of entrepreneurs, we show that investors tend to 
 relate their investment decisions to online opinions, and especially young and less experienced investors. Entrepreneurs are therefore 
 tempted to manipulate investor perceptions by manufacturing comments that praise their products. Using COVID-19 as a 
 positive shock to investor online presence, we examine the differences in online opinions for similar startup 
