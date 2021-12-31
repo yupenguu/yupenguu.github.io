@@ -11,7 +11,7 @@ layout: archive
 
 I am a PhD candidate in the finance group at the MIT Sloan School of Management. I obtained my bachelor's degree in Information Systems and my master's degree in Finance from Tsinghua University.
 
-My research interests center around entrepreneurial finance, household finance, and corporate governance, and financial technology.
+My research interests center around entrepreneurial finance, household finance, financial technology, and corporate governance.
 
 [Curriculum Vitae](https://yupenguu.github.io/files/YupengWang.pdf)
 
